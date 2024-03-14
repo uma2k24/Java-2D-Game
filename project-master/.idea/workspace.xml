@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aaaa13ca-06eb-479c-b16a-eff1509c531e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../276Assignments/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/src/main/java/Direction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/src/main/java/Door.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/src/main/java/DoorNeedingSpell.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/src/main/java/EnchantedMazeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/src/main/java/EnchantedRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/src/main/java/MapSite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/src/main/java/Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/src/main/java/MazeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/src/main/java/MazeGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/src/main/java/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/src/main/java/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/target/classes/Direction.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/target/classes/Door.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/target/classes/DoorNeedingSpell.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/target/classes/EnchantedMazeFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/target/classes/EnchantedRoom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/target/classes/MapSite.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/target/classes/Maze.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/target/classes/MazeFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/target/classes/MazeGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/target/classes/Room$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/target/classes/Room.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment 2 (local)/target/classes/Wall.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GameTiles/EndTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/main/UI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/scavenger/scavenger_down_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/scavenger/scavenger_down_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/scavenger/scavenger_left_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/scavenger/scavenger_left_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/scavenger/scavenger_right_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/scavenger/scavenger_right_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/scavenger/scavenger_up_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/scavenger/scavenger_up_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/Exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/building.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/tiles/street.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/BonusReward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/PressStart2P-vaV7.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Punishment.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Reward.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/gatherer/gatherer00.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/gatherer/gatherer01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/gatherer/gatherer02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/gatherer/gatherer03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/gatherer/gatherer04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/gatherer/gatherer05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/gatherer/gatherer06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/gatherer/gatherer07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/gatherer/gatherer08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/gatherer/gatherer09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/scavenger/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/scavenger/scavenger_down_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/scavenger/scavenger_down_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/scavenger/scavenger_left_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/scavenger/scavenger_left_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/scavenger/scavenger_right_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/scavenger/scavenger_right_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/scavenger/scavenger_up_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/scavenger/scavenger_up_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tiles/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tiles/Exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tiles/building.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/tiles/street.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/Group Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/Group Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/Characters/Characters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/Characters/Characters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/Characters/Gatherer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/Characters/Gatherer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/Game_Tiles/Game_Tiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/Game_Tiles/Game_Tiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/Game_Tiles/Tile_Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/Game_Tiles/Tile_Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/Maps/map01.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/Maps/map01.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/Maps/worldmap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/Maps/worldmap.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/Resources/BonusResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/Resources/BonusResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/Resources/RegResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/Resources/RegResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/Resources/Super_Resources.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/Resources/Super_Resources.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/main/CheckCollision.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/main/CheckCollision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/main/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/main/GameWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/main/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/main/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/main/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/main/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/main/ResourceSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/main/ResourceSetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group Project/src/main/UI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Group Project/src/main/UI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/java/BonusResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/java/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/java/GameWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/java/Gatherer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/java/Input.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/java/RegularResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/java/Scavenger.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/java/Trap.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/BonusReward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/Punishment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/Reward.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer/gatherer00.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer/gatherer01.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer/gatherer02.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer/gatherer03.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer/gatherer04.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer/gatherer05.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer/gatherer06.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer/gatherer07.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer/gatherer08.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer/gatherer09.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/gatherer_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/scavenger_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/scavenger_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/scavenger_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/scavenger_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/scavenger_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/scavenger_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/scavenger_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Group-Project (improved)/src/main/resources/scavenger_up_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../maven-test/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Documents/Phase2Report.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/Documents/Phase2Report.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Characters/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Characters/Entity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Characters/Gatherer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Characters/Gatherer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Characters/Scavenger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Characters/Scavenger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GameTiles/Game_Tiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GameTiles/Game_Tiles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GameTiles/Tile_Manager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GameTiles/Tile_Manager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GameTiles/worldmap.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GameTiles/worldmap.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardsAndPunishments/BonusResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RewardsAndPunishments/BonusResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardsAndPunishments/RegularResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RewardsAndPunishments/RegularResource.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/RewardsAndPunishments/Trap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RewardsAndPunishments/Trap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SetGame/AssetSetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SetGame/AssetSetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SetGame/gameStat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SetGame/gameStat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SetGame/gameState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SetGame/gameState.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/CollisionChecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/CollisionChecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/GameWindow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/GameWindow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/Input.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Input.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/main/Object.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/main/Object.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java_ua/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java_ua/Group Project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/grass.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/scavenger_down_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/scavenger_down_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/scavenger_left_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/scavenger_left_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/scavenger_right_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/scavenger_right_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/scavenger_up_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/scavenger_up_2.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="27Zet5CeAhc6tsUyrckFl5Dc3qR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="CMPT276-Group13" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aaaa13ca-06eb-479c-b16a-eff1509c531e" name="Changes" comment="" />
+      <created>1649532253206</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649532253206</updated>
+    </task>
+    <servers />
+  </component>
+</project>
